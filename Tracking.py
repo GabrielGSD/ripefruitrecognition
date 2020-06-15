@@ -14,7 +14,7 @@ layout = [
 
 window = sg.Window('Ripe Fruit Recognition - C209', layout, icon = 'img/LogoRipe.ico', location=(800,400))
 
-cap = cv2.VideoCapture(1)       
+cap = cv2.VideoCapture(0)       
 
 def morango():
 
