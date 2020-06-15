@@ -41,11 +41,6 @@ $ cd ripefruitrecognition
 $ code .
 
 ```
-
-## Resultado
-
-
-
 ### Colaboradores
 
 - Gabriel de Souza Daniel
