@@ -2,13 +2,13 @@
 
 ---
 
-## 💻 Sobre
+## Sobre
 
 O projeto **Ripe Fruit Recognition** é uma aplicação que foi criada dentro da disciplina de C209 (Computação Gráfica e Multimídia) com o intuito de colocarmos em prática o conteúdo estudado durante o curso em uma aplicação real de detecção de objetos. É uma aplicação *Real Time* com uma interface simples para reconhecer se a fruta está ou não madura utilizando apenas a detecção de cores. 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -17,7 +17,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [OpenCV](https://pypi.org/project/opencv-python/)
 - [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
 
-## :gear: Run
+## Run
 
 - Install [Python](https://www.python.org/downloads/)
 ```bash
@@ -46,7 +46,7 @@ $ code .
 
 
 
-### 🤝 Colaboradores
+### Colaboradores
 
 - Gabriel de Souza Daniel
 - Moisés dos Santos Delmoro
